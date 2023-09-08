@@ -4,6 +4,7 @@
 
 * https://juejin.cn/post/6844904166809157639#heading-48[Jackson使用详解]
 * https://blog.csdn.net/boling_cavalry/article/details/107135958[Jackson学习]
+* https://blog.wangqi.love/articles/Java/Jackson%E6%95%B4%E7%90%86.html[Jackson整理]
 
 == Jackson JSON
 
