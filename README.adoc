@@ -2,6 +2,8 @@
 
 = Jackson
 
+* https://juejin.cn/post/6844904166809157639#heading-48[Jackson使用详解]
+
 == Jackson JSON
 
 == Jackson YAML
