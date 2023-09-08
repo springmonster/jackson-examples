@@ -3,6 +3,7 @@
 = Jackson
 
 * https://juejin.cn/post/6844904166809157639#heading-48[Jackson使用详解]
+* https://blog.csdn.net/boling_cavalry/article/details/107135958[Jackson学习]
 
 == Jackson JSON
 
